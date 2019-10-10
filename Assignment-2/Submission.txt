@@ -1,1 +1,4 @@
-
+Hostname - cs5200-fall2019-mandava.cewykxpz5tqe.us-east-2.rds.amazonaws.com
+Username - sowmika
+Password - Cs5200_19
+Port - 3306
