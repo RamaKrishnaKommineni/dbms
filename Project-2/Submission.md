@@ -9,5 +9,5 @@ http://cs5200-fall2019-mandava.us-east-2.elasticbeanstalk.com/api/hello/select/a
 Integrating Spring Boot with MySQL
 
 [Insert a static hello message](http://cs5200-fall2019-mandava.us-east-2.elasticbeanstalk.com/api/hello/insert)
-[Insert a parametrized hello message](http://cs5200-fall2019-mandava.us-east-2.elasticbeanstalk.com/api/hello/insert/JPA ROCKS,http://cs5200-fall2019-mandava.us-east-2.elasticbeanstalk.com/api/hello/insert/Spring's the Best)
+[Insert a parametrized hello message](http://cs5200-fall2019-mandava.us-east-2.elasticbeanstalk.com/api/hello/insert/JPAROCKS)
 [Retrieve all hello messages](http://cs5200-fall2019-mandava.us-east-2.elasticbeanstalk.com/api/hello/select/all)
