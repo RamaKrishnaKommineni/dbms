@@ -1,0 +1,14 @@
+edu\northeastern\cs5200\Entities\Course.class
+edu\northeastern\cs5200\Repositories\SectionR.class
+edu\northeastern\cs5200\Repositories\StudentR.class
+edu\northeastern\cs5200\Repositories\CourseR.class
+edu\northeastern\cs5200\Cs5200Fall19MandavaJpaApplication.class
+edu\northeastern\cs5200\Entities\Section.class
+edu\northeastern\cs5200\Repositories\EnrollmentR.class
+edu\northeastern\cs5200\Entities\Person.class
+edu\northeastern\cs5200\Entities\Enrollment.class
+edu\northeastern\cs5200\Entities\Student.class
+edu\northeastern\cs5200\Repositories\FacultyR.class
+edu\northeastern\cs5200\Entities\Faculty.class
+edu\northeastern\cs5200\Repositories\PersonR.class
+edu\northeastern\cs5200\ServletInitializer.class
