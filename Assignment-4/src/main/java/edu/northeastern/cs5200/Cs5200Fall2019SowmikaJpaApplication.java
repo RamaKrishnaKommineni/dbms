@@ -1,13 +1,13 @@
-package com.example.cs5200_fall2019_mandava_sowmika_jpa;
+package edu.northeastern.cs5200;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class Cs5200Fall2019SowmikaJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(Cs5200Fall2019SowmikaJpaApplication.class, args);
 	}
 
 }
